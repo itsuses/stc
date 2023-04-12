@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-StackWise Media Manager "the App" provides "Media Management" “the Service” to merchants who use Shopify to power their stores. This Privacy Policy describes how personal information is collected, used, and shared when you install or use the App in connection with your Shopify-supported store.
+SquareWise "the App" provides "Media Management" “the Service” to merchants who use Shopify to power their stores. This Privacy Policy describes how personal information is collected, used, and shared when you install or use the App in connection with your Shopify-supported store.
 
 **How Do We Use Your Personal Information?**
 
@@ -37,4 +37,4 @@ We may update this privacy policy from time to time in order to reflect, for exa
 
 **Contact Us**
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at stackwise.app@outlook.com.
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at squarewise.app@outlook.com.
